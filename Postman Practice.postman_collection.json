@@ -1,0 +1,80 @@
+{
+  "info": {
+    "_postman_id": "23b67f1f-bf2a-4502-a8ba-74c27f625be7",
+    "name": "Postman Practice",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55420707",
+    "_collection_link": "https://go.postman.co/collection/55420707-23b67f1f-bf2a-4502-a8ba-74c27f625be7?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "https://jsonplaceholder.typicode.com/users",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://jsonplaceholder.typicode.com/users",
+          "protocol": "https",
+          "host": [
+            "jsonplaceholder",
+            "typicode",
+            "com"
+          ],
+          "path": [
+            "users"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "https://jsonplaceholder.typicode.com/posts",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://jsonplaceholder.typicode.com/posts",
+          "protocol": "https",
+          "host": [
+            "jsonplaceholder",
+            "typicode",
+            "com"
+          ],
+          "path": [
+            "posts"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "https://jsonplaceholder.typicode.com/users",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"name\": \"Nguyen Hieu\",\r\n  \"email\": \"hieu@gmail.com\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://jsonplaceholder.typicode.com/users",
+          "protocol": "https",
+          "host": [
+            "jsonplaceholder",
+            "typicode",
+            "com"
+          ],
+          "path": [
+            "users"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
