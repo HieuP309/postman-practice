@@ -43,7 +43,8 @@ https://jsonplaceholder.typicode.com/users
 
 Kết quả nhận được danh sách người dùng dưới dạng JSON.
 
-![GET Users](images/get-users.png)
+<img width="2486" height="1611" alt="image" src="https://github.com/user-attachments/assets/42cff54b-0eff-4f9c-9a95-9892af80e5db" />
+
 
 ---
 
@@ -55,7 +56,8 @@ https://jsonplaceholder.typicode.com/posts
 
 Kết quả nhận được danh sách bài viết.
 
-![GET Posts](images/get-posts.png)
+<img width="2496" height="1613" alt="image" src="https://github.com/user-attachments/assets/0bc73252-f104-4470-bd9e-6b5042ccd3c4" />
+
 
 ---
 
@@ -73,8 +75,9 @@ Dữ liệu gửi:
 }
 
 Kết quả hệ thống phản hồi thành công và trả về dữ liệu vừa gửi.
+<img width="2500" height="1615" alt="image" src="https://github.com/user-attachments/assets/5bd7d629-335d-4648-9746-f3af49aa1d41" />
 
-![POST User](images/post-user.png)
+
 
 ---
 
